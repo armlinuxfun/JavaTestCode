@@ -9,3 +9,6 @@ study java application notes
 	
 20221025:
 	my god
+	
+20221026:
+	oh my god
