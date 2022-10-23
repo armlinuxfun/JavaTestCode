@@ -6,3 +6,6 @@ study java application notes
 	
 20221024:
 	add testcode
+
+20221025:
+	add tstcode
